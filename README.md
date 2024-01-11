@@ -1,2 +1,2 @@
 # font_manipulator
-Change the font size with your wrists.
+change the font size with your wrists.
